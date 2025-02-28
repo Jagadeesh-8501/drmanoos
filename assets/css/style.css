@@ -4764,4 +4764,15 @@ select {
   color: #0071ef;
 }
 
+      .bottom ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .bottom ul li {
+        margin: 0 10px !important;
+        padding: 0 10px !important;
+        font-size: 20px;
+      }
+
 /*# sourceMappingURL=style.css.map */
