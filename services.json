@@ -1,0 +1,735 @@
+{
+  "service": [
+    {
+    "title": "Advanced Laparoscopic Surgery",
+    "icon": "/assets/images/service/05.jpg",
+    "image": "/assets/images/service/1.jpg",
+    "image1": "/assets/images/service/icon/07.png",
+    "service":"Advanced_Laparoscopic_Surgery",
+    "description": "Laparoscopic surgery, also known as minimally invasive or keyhole surgery, allows doctors to operate without large incisions. A laparoscope, a thin tube with a high-resolution camera, is used to visualize internal organs and perform precise procedures with minimal trauma to the body.",
+    "benefits": [
+      "Minimally invasive approach with tiny incisions (5–10mm).",
+      "Faster recovery and less pain compared to open surgery.",
+      "Lower risk of infections and complications.",
+      "Shorter hospital stay, with most patients discharged within 24 hours."
+    ],
+    "procedures": [
+        {
+          "name": "Laparoscopic Cholecystectomy (Gallbladder Removal)",
+          "used_for": [
+            "Gallstones causing pain and inflammation",
+            "Biliary colic (pain due to gallstone blockage)",
+            "Chronic gallbladder disease"
+          ],
+          "procedure": "A laparoscope is inserted through a small incision near the navel, and specialized instruments are used to carefully remove the gallbladder. This avoids a large incision, resulting in less pain and faster recovery.",
+          "recovery_time": "5–7 days"
+        },
+        {
+          "name": "Laparoscopic Hernia Repair",
+          "used_for": [
+            "Inguinal hernia (groin area)",
+            "Umbilical hernia (belly button)",
+            "Incisional hernia (previous surgery site)"
+          ],
+          "procedure": "Tiny incisions are made to insert the laparoscope and surgical mesh is placed over the weak area to prevent recurrence. This reduces post-surgery pain significantly.",
+          "recovery_time": "7–10 days"
+        },
+        {
+          "name": "Laparoscopic Appendectomy (Appendix Removal)",
+          "used_for": [
+            "Acute appendicitis (inflamed or infected appendix)",
+            "Ruptured appendix (emergency surgery)"
+          ],
+          "procedure": "A laparoscope helps visualize the inflamed appendix, which is removed through small incisions. This method ensures faster healing and reduces infection risk.",
+          "recovery_time": "5–7 days"
+        },
+        {
+          "name": "Laparoscopic Surgery for Intestinal Obstruction",
+          "used_for": [
+            "Small or large bowel obstruction",
+            "Adhesions (scar tissue) causing blockage",
+            "Tumor removal"
+          ],
+          "procedure": "The blockage is removed without a large abdominal incision, reducing pain and improving recovery time. Some cases may require reconnecting a section of the intestine.",
+          "recovery_time": "1–2 weeks"
+        },
+        {
+          "name": "Laparoscopic Haemorrhoidectomy (Piles Treatment)",
+          "used_for": [
+            "Severe haemorrhoids (piles) that do not respond to medication",
+            "Bleeding, pain, or prolapsed haemorrhoids"
+          ],
+          "procedure": "Laparoscopic techniques allow precise removal of haemorrhoids while preserving surrounding healthy tissue, ensuring minimal discomfort.",
+          "recovery_time": "1 week"
+        },
+        {
+          "name": "Laparoscopic Thyroid Surgery",
+          "used_for": [
+            "Thyroid nodules or tumors",
+            "Hyperthyroidism (overactive thyroid)",
+            "Goiter (enlarged thyroid gland)"
+          ],
+          "procedure": "Minimally invasive surgery allows removal of part or all of the thyroid with smaller scars and quicker recovery.",
+          "recovery_time": "1–2 weeks"
+        }
+    ],
+    "post_surgery_care": [
+      "Patients can usually walk within hours after surgery.",
+      "Normal diet can be resumed within 24–48 hours.",
+      "Minimal pain, usually managed with over-the-counter painkillers.",
+      "Follow-up consultation after 1 week for wound healing assessment."
+    ],
+    "why_choose_us": [
+      "Extensive experience in advanced laparoscopic techniques.",
+      "High success rate with minimal complications.",
+      "Personalized patient care & post-surgery follow-ups.",
+      "Modern equipment & latest surgical techniques."
+    ]
+  },{
+     "title": "Advanced Hernia Surgery",
+    "icon": "/assets/images/service/05.jpg",
+    "image": "/assets/images/service/2.jpg",
+    "image1": "/assets/images/service/icon/07.png",
+      "service":"Advanced_Hernia_Surgery",
+    "description": "Hernia surgery is performed to repair a weak spot in the abdominal wall where organs or fatty tissue push through. Laparoscopic hernia surgery offers a minimally invasive approach, ensuring quicker recovery and less post-operative pain.",
+    "types_of_hernias": [
+      {
+        "name": "Inguinal Hernia (Groin)",
+        "description": "Occurs when a part of the intestine or fatty tissue pushes through the abdominal wall in the groin region. More common in men."
+      },
+      {
+        "name": "Umbilical Hernia",
+        "description": "Develops when a section of the intestine bulges through the abdominal wall near the belly button."
+      },
+      {
+        "name": "Incisional Hernia",
+        "description": "Forms at the site of a previous surgical incision where the abdominal muscles have weakened."
+      },
+      {
+        "name": "Hiatal Hernia",
+        "description": "Occurs when the stomach pushes into the chest through an opening in the diaphragm."
+      },
+      {
+        "name": "Femoral Hernia",
+        "description": "Happens in the upper thigh or groin area, more common in women."
+      }
+    ],
+    "procedures": [
+      {
+        "name": "Laparoscopic Hernia Repair",
+        "procedure": "A laparoscope is inserted through tiny incisions, and surgical mesh is used to strengthen the weak area. This method leads to faster recovery and minimal scarring.",
+        "recovery_time": "7–10 days"
+      },
+      {
+        "name": "Open Hernia Repair",
+        "procedure": "A single larger incision is made to push the protruding tissue back in place, followed by reinforcement with stitches or mesh.",
+        "recovery_time": "2–4 weeks"
+      }
+    ],
+    "benefits": [
+      "Minimally invasive technique ensures less pain and faster healing.",
+      "Reduced chances of recurrence with surgical mesh reinforcement.",
+      "Shorter hospital stay; most patients are discharged within a day.",
+      "Smaller scars and lower risk of infection."
+    ],
+    "post_surgery_care": [
+      "Mild physical activities can be resumed within a week.",
+      "Avoid heavy lifting for at least 4–6 weeks.",
+      "Wear a supportive abdominal binder if advised by the surgeon.",
+      "Follow a high-fiber diet to prevent constipation."
+    ],
+    "why_choose_us": [
+      "Highly experienced in complex hernia repairs.",
+      "State-of-the-art laparoscopic technology for precision surgery.",
+      "Personalized care plans for every patient.",
+      "Dedicated post-surgical follow-ups to ensure full recovery."
+    ]
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  {
+    "title": "Gallbladder Removal Surgery (Cholecystectomy)",
+        "icon": "/assets/images/service/05.jpg",
+    "image": "/assets/images/service/3.jpg",
+    "image1": "/assets/images/service/icon/07.png",
+    "service":"Gallbladder_Removal_Surgery",
+    "provided_by": {
+      "name": "Dr. Manocharan T",
+      "title": "Consultant & Advanced Laparoscopic Surgeon",
+      "qualifications": ["FIAGES", "EFIAGES"]
+    },
+    "description": "Gallbladder removal surgery (cholecystectomy) is a procedure to remove the gallbladder when it becomes diseased or causes severe pain due to gallstones. Laparoscopic cholecystectomy is the preferred method, ensuring minimal pain and faster recovery.",
+    "conditions_treated": [
+      {
+        "name": "Gallstones (Cholelithiasis)",
+        "description": "Small, hard deposits that form inside the gallbladder, leading to pain, nausea, and digestive issues."
+      },
+      {
+        "name": "Cholecystitis",
+        "description": "Inflammation of the gallbladder, often caused by gallstones blocking the bile ducts."
+      },
+      {
+        "name": "Biliary Dyskinesia",
+        "description": "A condition where the gallbladder does not empty bile properly, leading to digestive discomfort."
+      },
+      {
+        "name": "Gallbladder Polyps",
+        "description": "Non-cancerous growths inside the gallbladder that can cause discomfort and, in rare cases, may become cancerous."
+      },
+      {
+        "name": "Gallbladder Cancer (Rare Cases)",
+        "description": "A rare but serious condition where the gallbladder develops malignant tumors."
+      }
+    ],
+    "procedures": [
+      {
+        "name": "Laparoscopic Cholecystectomy",
+        "procedure": "A minimally invasive technique where small incisions are made, and a laparoscope is used to remove the gallbladder.",
+        "benefits": [
+          "Faster recovery (usually within a week)",
+          "Less post-operative pain",
+          "Minimal scarring",
+          "Shorter hospital stay (same-day discharge in most cases)"
+        ],
+        "recovery_time": "7–10 days"
+      },
+      {
+        "name": "Open Cholecystectomy",
+        "procedure": "A traditional surgery involving a larger incision in the abdomen to remove the gallbladder. Used in complex cases.",
+        "benefits": [
+          "Suitable for severe gallbladder infections",
+          "Effective for complicated gallstone issues"
+        ],
+        "recovery_time": "4–6 weeks"
+      }
+    ],
+    "benefits": [
+      "Eliminates gallbladder pain and digestive discomfort.",
+      "Prevents complications like gallbladder rupture or bile duct infection.",
+      "No long-term dietary restrictions after recovery.",
+      "Minimally invasive option available for faster healing."
+    ],
+    "post_surgery_care": [
+      "Resume light activities within a few days.",
+      "Avoid fatty and heavy meals initially to prevent digestive discomfort.",
+      "Gradually return to normal diet within a few weeks.",
+      "Avoid heavy lifting for at least 4–6 weeks."
+    ],
+    "why_choose_us": [
+      "Highly skilled in laparoscopic gallbladder removal surgery.",
+      "State-of-the-art surgical facilities.",
+      "Personalized patient care and post-surgery follow-ups.",
+      "Minimal recovery time with the latest surgical techniques."
+    ]
+  }, 
+  
+  
+  
+  
+  
+  
+  
+  {
+    "title": "Thyroid Surgery (Thyroidectomy)",
+        "icon": "/assets/images/service/05.jpg",
+    "image": "/assets/images/service/7.jpg",
+    "image1": "/assets/images/service/icon/07.png",
+    "service":"Thyroid_Surgery",
+    "provided_by": {
+      "name": "Dr. Manocharan T",
+      "title": "Consultant & Advanced Laparoscopic Surgeon",
+      "qualifications": ["FIAGES", "EFIAGES"]
+    },
+    "description": "Thyroidectomy is a surgical procedure to remove all or part of the thyroid gland. It is performed to treat thyroid disorders, including thyroid nodules, goiter, hyperthyroidism, and thyroid cancer.",
+    "conditions_treated": [
+      {
+        "name": "Thyroid Nodules",
+        "description": "Lumps that form within the thyroid gland, which may be benign or cancerous."
+      },
+      {
+        "name": "Goiter",
+        "description": "Enlargement of the thyroid gland, leading to breathing or swallowing difficulties."
+      },
+      {
+        "name": "Hyperthyroidism",
+        "description": "An overactive thyroid gland producing excessive hormones, leading to rapid heartbeat, weight loss, and anxiety."
+      },
+      {
+        "name": "Thyroid Cancer",
+        "description": "Malignant tumors in the thyroid that require partial or total thyroid removal."
+      },
+      {
+        "name": "Graves' Disease",
+        "description": "An autoimmune disorder that causes excessive thyroid hormone production."
+      }
+    ],
+    "procedures": [
+      {
+        "name": "Total Thyroidectomy",
+        "procedure": "Complete removal of the thyroid gland, typically performed in cases of thyroid cancer or severe hyperthyroidism.",
+        "benefits": [
+          "Eliminates thyroid-related complications completely",
+          "Prevents cancer from spreading",
+          "Effective long-term solution for hyperthyroidism"
+        ],
+        "recovery_time": "2–4 weeks"
+      },
+      {
+        "name": "Partial Thyroidectomy (Lobectomy)",
+        "procedure": "Removal of one lobe of the thyroid while leaving the rest intact. Suitable for small nodules or mild hyperthyroidism.",
+        "benefits": [
+          "Retains partial thyroid function",
+          "Reduces the need for lifelong thyroid hormone replacement"
+        ],
+        "recovery_time": "1–2 weeks"
+      },
+      {
+        "name": "Minimally Invasive Thyroid Surgery",
+        "procedure": "Performed with small incisions using endoscopic techniques for faster recovery and minimal scarring.",
+        "benefits": [
+          "Less post-operative pain",
+          "Minimal scarring",
+          "Faster recovery"
+        ],
+        "recovery_time": "1–2 weeks"
+      }
+    ],
+    "benefits": [
+      "Effective treatment for thyroid disorders and cancer.",
+      "Minimally invasive options available for faster recovery.",
+      "Prevents complications like breathing difficulties and hormonal imbalances.",
+      "Enhanced cosmetic outcomes with minimal scarring techniques."
+    ],
+    "post_surgery_care": [
+      "Resume light activities within a few days.",
+      "Regular monitoring of calcium levels if the parathyroid glands are affected.",
+      "Possible lifelong thyroid hormone replacement if total thyroidectomy is performed.",
+      "Avoid strenuous activities for at least 2–4 weeks."
+    ],
+    "why_choose_us": [
+      "Highly experienced in thyroid surgery with excellent patient outcomes.",
+      "Use of advanced minimally invasive techniques.",
+      "Comprehensive post-surgical care and hormone management.",
+      "State-of-the-art facilities ensuring safety and precision."
+    ]
+  },
+  
+
+
+
+
+  {
+    "title": "Appendectomy (Appendix Removal Surgery)",
+        "icon": "/assets/images/service/05.jpg",
+    "image": "/assets/images/service/4.jpg",
+    "image1": "/assets/images/service/icon/07.png",
+    "service":"Appendectomy",
+    "provided_by": {
+      "name": "Dr. Manocharan T",
+      "title": "Consultant & Advanced Laparoscopic Surgeon",
+      "qualifications": ["FIAGES", "EFIAGES"]
+    },
+    "description": "Appendectomy is a surgical procedure to remove the appendix when it becomes inflamed due to appendicitis. This is an emergency condition that requires immediate treatment to prevent rupture and complications.",
+    "conditions_treated": [
+      {
+        "name": "Acute Appendicitis",
+        "description": "A sudden inflammation of the appendix, often causing severe abdominal pain, nausea, and fever."
+      },
+      {
+        "name": "Perforated Appendix",
+        "description": "A ruptured appendix that spreads infection throughout the abdominal cavity, leading to peritonitis."
+      },
+      {
+        "name": "Abscessed Appendix",
+        "description": "An infected and pus-filled appendix that may require drainage before removal."
+      },
+      {
+        "name": "Chronic Appendicitis",
+        "description": "Recurring or long-lasting appendicitis symptoms, which can be treated through elective surgery."
+      }
+    ],
+    "procedures": [
+      {
+        "name": "Laparoscopic Appendectomy",
+        "procedure": "A minimally invasive surgery where small incisions are made, and a laparoscope is used to remove the appendix.",
+        "benefits": [
+          "Smaller incisions and minimal scarring",
+          "Faster recovery time",
+          "Reduced pain and risk of infection"
+        ],
+        "recovery_time": "1–2 weeks"
+      },
+      {
+        "name": "Open Appendectomy",
+        "procedure": "A traditional surgical approach where a single incision is made in the lower right abdomen to remove the appendix.",
+        "benefits": [
+          "Effective for ruptured or complicated appendicitis",
+          "Preferred for severe infections or abscesses",
+          "Ensures complete removal of infected tissue"
+        ],
+        "recovery_time": "2–4 weeks"
+      }
+    ],
+    "benefits": [
+      "Immediate relief from appendicitis pain and complications.",
+      "Minimally invasive techniques available for quicker recovery.",
+      "Prevents life-threatening complications such as peritonitis or sepsis.",
+      "Improves overall digestive health and eliminates the risk of future appendix infections."
+    ],
+    "post_surgery_care": [
+      "Avoid heavy lifting and strenuous activities for a few weeks.",
+      "Eat a light and fiber-rich diet to aid digestion.",
+      "Stay hydrated and take prescribed antibiotics to prevent infections.",
+      "Monitor for signs of complications such as fever, severe pain, or swelling.",
+      "Attend follow-up visits for proper healing assessment."
+    ],
+    "why_choose_us": [
+      "Experienced laparoscopic surgeon specializing in appendix removal.",
+      "State-of-the-art operation theaters ensuring safe and effective procedures.",
+      "Comprehensive post-operative care for faster recovery.",
+      "Personalized treatment plans for each patient."
+    ]
+  },
+
+
+
+ {
+    "title": "Intestinal Obstruction Surgery",
+        "icon": "/assets/images/service/05.jpg",
+    "image": "/assets/images/service/5.jpg",
+    "image1": "/assets/images/service/icon/07.png",
+    "service":"Intestinal_Obstruction_Surgery",
+    "provided_by": {
+      "name": "Dr. Manocharan T",
+      "title": "Consultant & Advanced Laparoscopic Surgeon",
+      "qualifications": ["FIAGES", "EFIAGES"]
+    },
+    "description": "Intestinal obstruction surgery is performed to remove blockages in the small or large intestine that prevent the normal passage of food, fluids, and gas. This condition can be life-threatening if left untreated and requires immediate medical attention.",
+    "conditions_treated": [
+      {
+        "name": "Mechanical Obstruction",
+        "description": "A physical blockage caused by adhesions, hernias, tumors, or impacted stool."
+      },
+      {
+        "name": "Paralytic Ileus",
+        "description": "A condition where the intestine stops functioning properly due to nerve or muscle issues, rather than a physical blockage."
+      },
+      {
+        "name": "Strangulated Obstruction",
+        "description": "A severe condition where blood supply to the intestines is cut off, leading to tissue death and requiring emergency surgery."
+      },
+      {
+        "name": "Volvulus",
+        "description": "A twisting of the intestine that cuts off blood supply and blocks movement."
+      },
+      {
+        "name": "Intussusception",
+        "description": "A rare condition where a part of the intestine folds into itself, leading to obstruction."
+      }
+    ],
+    "procedures": [
+      {
+        "name": "Laparoscopic Surgery",
+        "procedure": "A minimally invasive approach where small incisions are made, and a laparoscope is used to remove the obstruction.",
+        "benefits": [
+          "Less pain and minimal scarring",
+          "Faster recovery time",
+          "Lower risk of infections"
+        ],
+        "recovery_time": "1–2 weeks"
+      },
+      {
+        "name": "Open Surgery",
+        "procedure": "A traditional surgery where a larger incision is made to remove the obstruction and repair the affected intestine.",
+        "benefits": [
+          "Best for severe obstructions or strangulation cases",
+          "Allows direct visualization and complete removal of the blockage",
+          "Ensures restoration of normal intestinal function"
+        ],
+        "recovery_time": "2–4 weeks"
+      },
+      {
+        "name": "Bowel Resection",
+        "procedure": "In cases where part of the intestine is damaged, a resection is performed to remove the affected section and reconnect healthy parts.",
+        "benefits": [
+          "Prevents complications like necrosis (tissue death)",
+          "Restores normal digestion and nutrient absorption",
+          "Improves long-term intestinal health"
+        ],
+        "recovery_time": "3–6 weeks"
+      }
+    ],
+    "benefits": [
+      "Immediate relief from pain, bloating, and discomfort.",
+      "Restoration of normal digestion and bowel movements.",
+      "Minimally invasive techniques available for faster recovery.",
+      "Prevents life-threatening complications such as intestinal rupture or sepsis."
+    ],
+    "post_surgery_care": [
+      "Follow a liquid and soft diet initially, then gradually return to normal foods.",
+      "Avoid heavy lifting and strenuous activities for a few weeks.",
+      "Stay hydrated and take prescribed antibiotics to prevent infections.",
+      "Monitor for signs of complications such as severe pain, fever, or bloating.",
+      "Attend follow-up visits for proper healing assessment."
+    ],
+    "why_choose_us": [
+      "Experienced laparoscopic and general surgeon with expertise in intestinal surgeries.",
+      "Advanced diagnostic tools for accurate assessment and treatment planning.",
+      "State-of-the-art operation theaters ensuring safe and effective procedures.",
+      "Comprehensive post-operative care for faster recovery."
+    ]
+  },
+
+
+
+
+
+  {
+    "title": "Proctology Treatments",
+        "icon": "/assets/images/service/05.jpg",
+    "image": "/assets/images/service/6.jpg",
+    "image1": "/assets/images/service/icon/07.png",
+    "service":"Proctology_Treatments",
+    "provided_by": {
+      "name": "Dr. Manocharan T",
+      "title": "Consultant & Advanced Laparoscopic Surgeon",
+      "qualifications": ["FIAGES", "EFIAGES"]
+    },
+    "description": "Proctology focuses on diagnosing and treating disorders of the rectum, anus, and colon. These conditions can cause discomfort, pain, and complications if left untreated. Modern proctology treatments offer minimally invasive solutions to ensure faster recovery and improved quality of life.",
+    "conditions_treated": [
+      {
+        "name": "Hemorrhoids (Piles)",
+        "description": "Swollen veins in the rectum or anus, leading to pain, itching, and bleeding."
+      },
+      {
+        "name": "Anal Fissures",
+        "description": "Small tears in the anal lining, causing pain and bleeding during bowel movements."
+      },
+      {
+        "name": "Anal Fistula",
+        "description": "An abnormal tunnel between the anal canal and the skin, often resulting from infections."
+      },
+      {
+        "name": "Pilonidal Sinus",
+        "description": "A cyst or abscess that forms near the tailbone due to hair and skin debris accumulation."
+      },
+      {
+        "name": "Rectal Prolapse",
+        "description": "A condition where the rectum protrudes through the anus, requiring surgical correction."
+      }
+    ],
+    "procedures": [
+      {
+        "name": "Laser Treatment for Hemorrhoids",
+        "procedure": "A minimally invasive technique using laser energy to shrink hemorrhoidal tissue.",
+        "benefits": [
+          "Minimal pain and discomfort",
+          "Quick recovery time",
+          "Lower recurrence rate"
+        ],
+        "recovery_time": "2–3 days"
+      },
+      {
+        "name": "Sphincterotomy for Anal Fissures",
+        "procedure": "A small incision in the anal sphincter to relieve pressure and promote healing.",
+        "benefits": [
+          "Highly effective with low recurrence",
+          "Relieves pain immediately",
+          "Quick outpatient procedure"
+        ],
+        "recovery_time": "1 week"
+      },
+      {
+        "name": "Fistulectomy for Anal Fistula",
+        "procedure": "Surgical removal of the fistula to prevent infection and drainage issues.",
+        "benefits": [
+          "Complete removal of infected tissue",
+          "Prevents recurrence",
+          "Minimally invasive options available"
+        ],
+        "recovery_time": "2–3 weeks"
+      },
+      {
+        "name": "Pilonidal Sinus Surgery",
+        "procedure": "Surgical excision or laser treatment to remove infected cysts near the tailbone.",
+        "benefits": [
+          "Permanent resolution of the issue",
+          "Minimally invasive techniques available",
+          "Reduced post-surgical pain"
+        ],
+        "recovery_time": "1–2 weeks"
+      },
+      {
+        "name": "Rectopexy for Rectal Prolapse",
+        "procedure": "Surgical fixation of the rectum to prevent it from slipping out.",
+        "benefits": [
+          "Restores normal rectal function",
+          "Prevents further complications",
+          "Minimally invasive options available"
+        ],
+        "recovery_time": "3–4 weeks"
+      }
+    ],
+    "benefits": [
+      "Relief from pain, bleeding, and discomfort.",
+      "Minimally invasive procedures for faster recovery.",
+      "Reduced risk of recurrence and complications.",
+      "Improved bowel function and quality of life."
+    ],
+    "post_surgery_care": [
+      "Maintain a high-fiber diet to prevent constipation.",
+      "Stay hydrated and follow prescribed medications.",
+      "Avoid heavy lifting and straining for a few weeks.",
+      "Keep the anal area clean to prevent infections.",
+      "Follow up regularly with your doctor for monitoring."
+    ],
+    "why_choose_us": [
+      "Advanced laser and minimally invasive proctology treatments.",
+      "Experienced surgeon specializing in colorectal and anal disorders.",
+      "Personalized treatment plans for each patient.",
+      "State-of-the-art facilities with high success rates."
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+ {
+    "title": "Breast Surgery",
+        "icon": "/assets/images/service/05.jpg",
+    "image": "/assets/images/service/8.jpg",
+    "image1": "/assets/images/service/icon/07.png",
+    "service":"Breast_Surgery",
+    "provided_by": {
+      "name": "Dr. Manocharan T",
+      "title": "Consultant & Advanced Laparoscopic Surgeon",
+      "qualifications": ["FIAGES", "EFIAGES"]
+    },
+    "description": "Breast surgery is performed to diagnose, treat, or manage various conditions affecting breast tissue. These procedures range from removing benign lumps to treating breast cancer and reconstructing the breast for aesthetic or medical purposes.",
+    "conditions_treated": [
+      {
+        "name": "Fibroadenoma",
+        "description": "A non-cancerous lump in the breast, commonly found in younger women."
+      },
+      {
+        "name": "Fibrocystic Breast Disease",
+        "description": "A condition causing lumpiness, tenderness, and discomfort due to hormonal changes."
+      },
+      {
+        "name": "Breast Abscess",
+        "description": "A collection of pus inside the breast tissue, often due to bacterial infection."
+      },
+      {
+        "name": "Breast Cysts",
+        "description": "Fluid-filled sacs in the breast, which may cause pain or swelling."
+      },
+      {
+        "name": "Gynecomastia",
+        "description": "Enlargement of male breast tissue due to hormonal imbalance or other factors."
+      },
+      {
+        "name": "Breast Cancer",
+        "description": "Malignant growth in the breast requiring surgical and medical intervention."
+      }
+    ],
+    "procedures": [
+      {
+        "name": "Lumpectomy",
+        "procedure": "Surgical removal of a breast lump while preserving healthy tissue.",
+        "benefits": [
+          "Preserves most of the breast",
+          "Minimal scarring",
+          "Quick recovery"
+        ],
+        "recovery_time": "1–2 weeks"
+      },
+      {
+        "name": "Mastectomy",
+        "procedure": "Complete removal of one or both breasts, usually for cancer treatment.",
+        "benefits": [
+          "Eliminates cancerous tissue",
+          "Reduces the risk of recurrence",
+          "Options for reconstruction available"
+        ],
+        "recovery_time": "4–6 weeks"
+      },
+      {
+        "method": "Breast Cyst Aspiration",
+        "procedure": "Draining fluid from a breast cyst using a fine needle.",
+        "benefits": [
+          "Minimally invasive",
+          "Quick and effective pain relief",
+          "No need for major surgery"
+        ],
+        "recovery_time": "1–2 days"
+      },
+      {
+        "name": "Breast Abscess Drainage",
+        "procedure": "Surgical drainage of an infected abscess to prevent complications.",
+        "benefits": [
+          "Reduces pain and swelling",
+          "Prevents infection from spreading",
+          "Quick recovery"
+        ],
+        "recovery_time": "1 week"
+      },
+      {
+        "name": "Gynecomastia Surgery",
+        "procedure": "Removal of excess male breast tissue through liposuction or excision.",
+        "benefits": [
+          "Improves chest appearance",
+          "Boosts self-confidence",
+          "Minimally invasive techniques available"
+        ],
+        "recovery_time": "2–3 weeks"
+      },
+      {
+        "name": "Breast Reconstruction",
+        "procedure": "Restoration of breast shape after mastectomy using implants or tissue transfer.",
+        "benefits": [
+          "Restores natural breast appearance",
+          "Improves psychological well-being",
+          "Multiple reconstruction options available"
+        ],
+        "recovery_time": "4–6 weeks"
+      }
+    ],
+    "benefits": [
+      "Improved breast health and early detection of complications.",
+      "Minimally invasive options for faster recovery.",
+      "Enhancement of aesthetic and functional aspects of the breast.",
+      "Reduced pain, swelling, and discomfort.",
+      "Boosts confidence and quality of life after treatment."
+    ],
+    "post_surgery_care": [
+      "Follow prescribed medications and antibiotics.",
+      "Wear a supportive bra for better healing and comfort.",
+      "Avoid heavy lifting or strenuous activities for a few weeks.",
+      "Keep the surgical area clean and dry to prevent infections.",
+      "Attend regular follow-up appointments for monitoring."
+    ],
+    "why_choose_us": [
+      "Expert in breast surgeries with advanced surgical techniques.",
+      "Personalized treatment plans tailored to individual needs.",
+      "State-of-the-art facilities ensuring patient safety and comfort.",
+      "Comprehensive care, from diagnosis to post-surgical support."
+    ]
+  }
+
+  ]
+}

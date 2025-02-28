@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Services</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Our Services</h1>
+    </header>
+
+    <section class="services-container" id="services-list">
+        <!-- Services will be dynamically loaded here -->
+    </section>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+             fetch("services.json")
+    .then(response => response.json())
+    .then(data => {
+        console.log("Fetched Data:", data);  // Debugging
+        const servicesList = document.getElementById("services-list");
+
+        if (!data.service || data.service.length === 0) {
+            servicesList.innerHTML = "<p>No services available at the moment.</p>";
+            return;
+        }
+
+        data.service.forEach(service => {
+            const serviceCard = document.createElement("div");
+            serviceCard.classList.add("service-card");
+
+            serviceCard.innerHTML = `
+                <h2>${service.title}</h2>
+                <p>${service.description}</p>
+                <a href="service_details.html?service=${encodeURIComponent(service.service)}" class="read-more">
+                    Read More
+                </a>
+            `;
+
+            servicesList.appendChild(serviceCard);
+        });
+    })
+    .catch(error => {
+        console.error("Error fetching services:", error);
+        document.getElementById("services-list").innerHTML = "<p>Failed to load services.</p>";
+    });
+
+        });
+
+
+    </script>
+</body>
+</html>

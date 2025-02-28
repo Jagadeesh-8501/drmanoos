@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Service Details</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1 id="service-title">Service Details</h1>
+    </header>
+
+  
+    <div class="container">
+        <h1 id="service-title">Loading...</h1>
+        <p id="service-description"></p>
+
+        <h2>Benefits</h2>
+        <ul id="service-benefits"></ul>
+
+        <h2>Procedures</h2>
+        <div id="service-procedures"></div>
+
+        <h2>Post-Surgery Care</h2>
+        <ul id="service-care"></ul>
+
+        <h2>Why Choose Us?</h2>
+        <ul id="service-why-choose"></ul>
+
+        <a href="services.html">← Back to Services</a>
+    </div>
+
+    <script>
+        // Function to get URL parameters
+function getQueryParam(param) {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get(param);
+}
+
+// Get the service parameter from URL
+const selectedService = getQueryParam("service");
+
+fetch("services.json")
+    .then(response => response.json())
+    .then(data => {
+        console.log("Fetched Data:", data);  // Debugging
+        if (!data.service || data.service.length === 0) {
+            document.getElementById("service-details").innerHTML = "<p>Service details not available.</p>";
+            return;
+        }
+
+        // Find the service in the JSON
+        const service = data.service.find(s => s.service === selectedService);
+
+        if (!service) {
+            document.getElementById("service-details").innerHTML = "<p>Service not found.</p>";
+            return;
+        }
+
+        // Populate service details
+        document.getElementById("service-title").innerText = service.title;
+        document.getElementById("service-description").innerText = service.description;
+
+        // Benefits list
+        const benefitsList = document.getElementById("service-benefits");
+        benefitsList.innerHTML = "";
+        service.benefits.forEach(benefit => {
+            const li = document.createElement("li");
+            li.textContent = benefit;
+            benefitsList.appendChild(li);
+        });
+
+        // Procedures list (if available)
+        const proceduresList = document.getElementById("service-procedures");
+        proceduresList.innerHTML = "";
+        if (service.procedures) {
+            service.procedures.forEach(proc => {
+                const procItem = document.createElement("div");
+                procItem.classList.add("procedure-item");
+
+                procItem.innerHTML = `
+                    <h3>${proc.name}</h3>
+                    <p><strong>Used For:</strong> ${proc.used_for.join(", ")}</p>
+                    <p><strong>Procedure:</strong> ${proc.procedure}</p>
+                    <p><strong>Recovery Time:</strong> ${proc.recovery_time}</p>
+                `;
+                proceduresList.appendChild(procItem);
+            });
+        } else {
+            proceduresList.innerHTML = "<p>No specific procedures listed.</p>";
+        }
+
+        // Post Surgery Care
+        const careList = document.getElementById("service-care");
+        careList.innerHTML = "";
+        service.post_surgery_care.forEach(care => {
+            const li = document.createElement("li");
+            li.textContent = care;
+            careList.appendChild(li);
+        });
+
+        // Why Choose Us
+        const whyChooseList = document.getElementById("service-why-choose");
+        whyChooseList.innerHTML = "";
+        service.why_choose_us.forEach(reason => {
+            const li = document.createElement("li");
+            li.textContent = reason;
+            whyChooseList.appendChild(li);
+        });
+    })
+    .catch(error => {
+        console.error("Error fetching service details:", error);
+        document.getElementById("service-details").innerHTML = "<p>Failed to load service details.</p>";
+    });
+
+    </script>
+</body>
+</html>
