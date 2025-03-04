@@ -3,7 +3,7 @@
     {
     "title": "Advanced Laparoscopic Surgery",
     "icon": "/assets/images/service/05.jpg",
-    "image": "/assets/images/service/1.jpg",
+    "image": "assets/images/service/1.jpg",
     "image1": "/assets/images/service/icon/07.png",
     "service":"Advanced_Laparoscopic_Surgery",
     "description": "Laparoscopic surgery, also known as minimally invasive or keyhole surgery, allows doctors to operate without large incisions. A laparoscope, a thin tube with a high-resolution camera, is used to visualize internal organs and perform precise procedures with minimal trauma to the body.",
@@ -88,7 +88,7 @@
   },{
      "title": "Advanced Hernia Surgery",
     "icon": "/assets/images/service/05.jpg",
-    "image": "/assets/images/service/2.jpg",
+    "image": "assets/images/service/2.jpg",
     "image1": "/assets/images/service/icon/07.png",
       "service":"Advanced_Hernia_Surgery",
     "description": "Hernia surgery is performed to repair a weak spot in the abdominal wall where organs or fatty tissue push through. Laparoscopic hernia surgery offers a minimally invasive approach, ensuring quicker recovery and less post-operative pain.",
@@ -157,7 +157,7 @@
   {
     "title": "Gallbladder Removal Surgery (Cholecystectomy)",
         "icon": "/assets/images/service/05.jpg",
-    "image": "/assets/images/service/3.jpg",
+    "image": "assets/images/service/3.jpg",
     "image1": "/assets/images/service/icon/07.png",
     "service":"Gallbladder_Removal_Surgery",
     "provided_by": {
@@ -239,7 +239,7 @@
   {
     "title": "Thyroid Surgery (Thyroidectomy)",
         "icon": "/assets/images/service/05.jpg",
-    "image": "/assets/images/service/7.jpg",
+    "image": "assets/images/service/7.jpg",
     "image1": "/assets/images/service/icon/07.png",
     "service":"Thyroid_Surgery",
     "provided_by": {
@@ -328,7 +328,7 @@
   {
     "title": "Appendectomy (Appendix Removal Surgery)",
         "icon": "/assets/images/service/05.jpg",
-    "image": "/assets/images/service/4.jpg",
+    "image": "assets/images/service/4.jpg",
     "image1": "/assets/images/service/icon/07.png",
     "service":"Appendectomy",
     "provided_by": {
@@ -403,7 +403,7 @@
  {
     "title": "Intestinal Obstruction Surgery",
         "icon": "/assets/images/service/05.jpg",
-    "image": "/assets/images/service/5.jpg",
+    "image": "assets/images/service/5.jpg",
     "image1": "/assets/images/service/icon/07.png",
     "service":"Intestinal_Obstruction_Surgery",
     "provided_by": {
@@ -494,7 +494,7 @@
   {
     "title": "Proctology Treatments",
         "icon": "/assets/images/service/05.jpg",
-    "image": "/assets/images/service/6.jpg",
+    "image": "assets/images/service/6.jpg",
     "image1": "/assets/images/service/icon/07.png",
     "service":"Proctology_Treatments",
     "provided_by": {
@@ -612,7 +612,7 @@
  {
     "title": "Breast Surgery",
         "icon": "/assets/images/service/05.jpg",
-    "image": "/assets/images/service/8.jpg",
+    "image": "assets/images/service/8.jpg",
     "image1": "/assets/images/service/icon/07.png",
     "service":"Breast_Surgery",
     "provided_by": {
